@@ -1,0 +1,23 @@
+{
+  "name": "grafbase-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "grafbase dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ya-masou/grafbase-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ya-masou/grafbase-todo/issues"
+  },
+  "homepage": "https://github.com/Ya-masou/grafbase-todo#readme",
+  "devDependencies": {
+    "grafbase": "^0.3.0"
+  }
+}
